@@ -1,4 +1,4 @@
 # study
 study
 
-https://meet.google.com/btt-eygf-hrt
+https://meet.google.com/nri-bsgs-fdr
