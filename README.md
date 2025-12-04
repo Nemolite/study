@@ -1,4 +1,4 @@
 # study
 study
 
-https://meet.google.com/nri-bsgs-fdr
+https://meet.google.com/ieg-ujow-idf
