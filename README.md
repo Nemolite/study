@@ -1,7 +1,7 @@
 # study
 study
 
-https://meet.google.com/msq-apov-ehm
+https://meet.google.com/gen-zvmo-zei
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
