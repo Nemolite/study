@@ -1,7 +1,7 @@
 # study
 study
 
-https://meet.google.com/xgb-kbsc-vap
+https://meet.google.com/xrq-wcii-cpz
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
