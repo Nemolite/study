@@ -23,3 +23,5 @@ https://cloud.mail.ru/public/Vtkf/uozsHM88n
 [Демо](https://cloud.mail.ru/public/JD8B/2bpBxRq1N)
 
 [1c](https://cloud.mail.ru/public/cP9D/rG1Vb5vgg)
+
+let arr = [0,-1,-5,2,3,5,0,7,-8,-3,9,0,-3,-4,4,0]
