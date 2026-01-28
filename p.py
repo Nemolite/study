@@ -1,4 +1,5 @@
 class Test:
+    NAME_GAME ="Игровая стратегия"
     """ Тествоый класс"""
     def __init__(self,a,d,b):
         # public
@@ -8,18 +9,21 @@ class Test:
         # private
         self.__b = b
 
-    # сеттер
-    def set_b(self,b):
-        self.__b = b
-
-    # геттер
-    def get_b(self):
+    @property
+    def b(self):
         return self.__b
 
-obj = Test(1,2,3)
+    @b.setter
+    def b(self,b):
+        self.__b = b
+
+
+obj = Test(1,2,3.14)
 
 print(obj.a)
-print(obj.get_b())
+print(obj.b)
 
-obj.set_b(44)
-print(obj.get_b())
+obj.b=3,1415
+
+print(obj.NAME_GAME)
+print(Test.NAME_GAME)
