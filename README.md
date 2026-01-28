@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/zec-jaaz-fsr)
+[Подключение](https://meet.google.com/wuu-vtnw-umv)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
