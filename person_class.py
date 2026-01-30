@@ -1,0 +1,74 @@
+class Game_person:
+    pass
+
+
+class Mag(Game_person):
+    """ Одно заклинание расходует на восстановление 10 пунктов здоровья """
+    def __init__(self,name_mag,energy,healthy,loaction):
+        self.name_mag = name_mag
+        self.energy = energy  # 10
+        self.healthy = healthy  #100
+        self.loaction = loaction
+
+    def treatment(self):
+        """ Заклинание, восстановление здоровья"""
+        energy = 1
+        return energy
+
+class Voin(Game_person):
+    """ один удар расходует 10 пунктов жизни"""
+    def __init__(self,name_voin,healthy,loaction,hit=10):
+        self.name_voin = name_voin
+        self.hit = hit # величина удара 10, 1 пункт удара расходует 10 пунктов жизни
+        self.healthy = healthy  #100
+        self.loaction = loaction
+
+    def other_voin_hit(self,hit=1):
+        """ если его бьют """
+        self.healthy = self.healthy -10*1
+
+    def voin_hit(self):
+        hit = 1
+        return hit
+
+class People(Game_person):
+    """ житель не может быить, но его может лчить маг"""
+    def __init__(self,name_person,healthy,loaction):
+        self.name_person = name_person
+        self.healthy = healthy  # 100
+        self.loaction = loaction
+
+    def give_hit(self,person_give_hit):
+        self.healthy = self.healthy -10*person_give_hit
+
+    def give_healthy(self,energy):
+        self.healthy = self.healthy+10*energy
+
+
+### 1 жители г.Шумерля
+
+person1 = People("Илон",100,"Шумерля")
+voin1 = Voin("Билл",100,"Шумерля")
+mag1 = Mag("Джон",10,100,"Шумерля")
+
+### 2 жители г.Чебоксары
+
+person2 = People("Питер",100,"Чебоксары")
+voin2 = Voin("Макрон",100,"Чебоксары")
+mag2 = Mag("Джордж",10,100,"Чебоксары")
+
+## эпизод первый, встрча voin2 с person1
+
+sila_udara = voin2.voin_hit()
+print(sila_udara)
+
+person1.give_hit(sila_udara)
+print(person1.healthy)
+
+## эпизод второй, ление магом жителя
+
+leche = mag1.treatment()
+print(leche)
+
+person1.give_healthy(leche)
+print(person1.healthy)
