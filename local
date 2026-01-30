@@ -1,0 +1,166 @@
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git branch vet1
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+M       css/style.css
+M       test.html
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git checkout master
+Switched to branch 'master'
+M       css/style.css
+M       test.html
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   css/style.css
+        modified:   test.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git add .
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git commit -m "завершение работы с псевдоклассами и псевдоэлементами"
+[master d51d655] завершение работы с псевдоклассами и псевдоэлементами
+ 2 files changed, 97 insertions(+), 1 deletion(-)
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git status
+On branch vet1
+nothing to commit, working tree clean
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git status
+On branch vet1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        css/block.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git add .
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git commit -m "Создание файла block.html"
+[vet1 155a111] Создание файла block.html
+ 1 file changed, 12 insertions(+)
+ create mode 100644 css/block.html
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git checkout master
+Switched to branch 'master'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git checkout master
+Switched to branch 'master'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git status
+On branch vet1
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    css/block.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        block.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git add .
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git commit -m "Перенос файла block.html в корень проекта"
+[vet1 d61ce78] Перенос файла block.html в корень проекта
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename css/block.html => block.html (100%)
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git checkout master
+Switched to branch 'master'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
+$ git checkout master
+Switched to branch 'master'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout -b vet2
+Switched to a new branch 'vet2'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git status
+On branch vet2
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test3.thml
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git add .
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git commit -m "Создание файла test3.html"
+[vet2 48bc00e] Создание файла test3.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test3.thml
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git status
+On branch vet2
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    test3.thml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test3.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git add .
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git commit -m "Изменение разширенияоздание файла test3.html"
+[vet2 810b14c] Изменение разширенияоздание файла test3.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename test3.thml => test3.html (100%)
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet2)
+$ git checkout master
+Switched to branch 'master'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (master)
+$ git checkout vet1
+Switched to branch 'vet1'
+
+Uchitel@Uchitel-11 MINGW64 /d/bcb/project (vet1)
