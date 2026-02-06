@@ -19,4 +19,5 @@ SET HTTPS_PROXY=http://10.0.21.52:3128
 
 [1c](https://cloud.mail.ru/public/cP9D/rG1Vb5vgg)
 
+[git-тренажер](https://learngitbranching.js.org/?locale=ru_RU)
 
