@@ -25,3 +25,5 @@ git remote set-url origin https://Ваш токен@github.com/Nemolite/myporjec
 
 git config --global http.sslVerify false
 
+git clone https://github.com/Nemolite/myhtml.git .
+
