@@ -23,3 +23,5 @@ SET HTTPS_PROXY=http://10.0.21.52:3128
 
 git remote set-url origin https://Ваш токен@github.com/Nemolite/myporject.git
 
+git config http.sslVerify "false"
+
