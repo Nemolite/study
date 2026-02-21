@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/htr-xswd-xsb)
+[Подключение](https://meet.google.com/bid-tgms-opa)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
