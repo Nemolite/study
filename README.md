@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/spf-sxov-jgf)
+[Подключение](https://meet.google.com/evi-egem-bnt)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
