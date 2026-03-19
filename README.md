@@ -34,3 +34,7 @@ git clone https://github.com/Nemolite/myhtml.git .
 [front](https://sourcecraft.dev/sergey210885/front)
 [back](https://gitverse.ru/sergeyvushnyakov/php_study)
 
+# Задание на верстку
+[Задание1](https://cloud.ru/)
+[Задание2](https://gradum.ru/)
+
