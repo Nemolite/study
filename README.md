@@ -34,6 +34,8 @@ git clone https://github.com/Nemolite/myhtml.git .
 [front](https://sourcecraft.dev/sergey210885/front)
 [back](https://gitverse.ru/sergeyvushnyakov/php_study)
 
+[Слайдер](https://itcodik.com/article/slaydery-na-chistom-javascript----sozdanie-funkcionalnogo-slaydera-dlya-lyubogo-veb-proekta-obuchenie-programmirovaniyu-s-kodik)
+
 # Задания на верстку
 [Задание1](https://cloud.ru/)
 [Задание2](https://gradum.ru/)
