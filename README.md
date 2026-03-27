@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/hog-ftpg-ssp)
+[Подключение](https://meet.google.com/rxy-hzwr-eny)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
