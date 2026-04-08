@@ -40,3 +40,7 @@ git clone https://github.com/Nemolite/myhtml.git .
 [Задание1](https://cloud.ru/)
 [Задание2](https://gradum.ru/)
 
+
+# 1c
+[1c урок rutube](https://rutube.ru/video/db15aa69b4a4f0256a8c9fc78d0de51d/)
+
