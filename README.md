@@ -44,3 +44,5 @@ git clone https://github.com/Nemolite/myhtml.git .
 # 1c
 [1c урок rutube](https://rutube.ru/video/db15aa69b4a4f0256a8c9fc78d0de51d/)
 
+[Учебник](https://cloud.mail.ru/public/uD8Z/ZDMPghkia)
+
