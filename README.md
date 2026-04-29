@@ -46,3 +46,5 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Учебник](https://cloud.mail.ru/public/uD8Z/ZDMPghkia)
 
+[Задачи](https://vk.com/wall-105441046_1169)
+
