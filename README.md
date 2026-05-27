@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/yng-rvbo-wrg)
+[Подключение](https://inf-ege.sdamgia.ru/?redir=)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
