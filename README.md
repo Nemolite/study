@@ -48,3 +48,6 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Задачи](https://vk.com/wall-105441046_1169)
 
+# ДЗ
+[Задачи](https://inf-ege.sdamgia.ru/?redir=)
+
