@@ -15,7 +15,7 @@ SET HTTPS_PROXY=http://10.0.21.52:3128
 
 [html/css/js](https://cloud.mail.ru/public/Vtkf/uozsHM88n)
 
-[Демо](https://cloud.mail.ru/public/JD8B/2bpBxRq1N)
+[Демо](https://cloud.mail.ru/public/BXkt/6HbooVjbv)
 
 [1c](https://cloud.mail.ru/public/cP9D/rG1Vb5vgg)
 
@@ -50,4 +50,8 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 # ДЗ
 [Задачи](https://inf-ege.sdamgia.ru/?redir=)
+
+# ДЕМО
+
+[Демо](https://cloud.mail.ru/public/BXkt/6HbooVjbv)
 
