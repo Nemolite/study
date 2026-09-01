@@ -59,3 +59,5 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [link](https://futurecode.uchi.ru/)
 
+[Справки](https://cloud.mail.ru/public/EMC6/R7sQd3zYs)
+
