@@ -55,9 +55,9 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Демо](https://cloud.mail.ru/public/BXkt/6HbooVjbv)
 
-[meet](https://meet.google.com/tjg-dnfq-txn)
+[meet](https://meet.google.com/ydz-ayef-yhk)
 
-[link](https://futurecode.uchi.ru/)
 
-[Справки](https://cloud.mail.ru/public/EMC6/R7sQd3zYs)
+
+[Справки](https://cloud.mail.ru/public/EMuD/Z1E6w9UhX)
 
