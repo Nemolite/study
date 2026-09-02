@@ -59,9 +59,5 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 
 
-[Справки](https://cloud.mail.ru/public/EMuD/Z1E6w9UhX)
-
-[Справка 4ИП](https://cloud.mail.ru/public/EMuD/Z1E6w9UhX)
-
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
 
