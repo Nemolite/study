@@ -57,6 +57,8 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [meet](https://meet.google.com/vnz-siis-uwu)
 
+[Книги БД](https://cloud.mail.ru/public/emd9/ZWBKMoTWF)
+
 
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
