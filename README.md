@@ -59,6 +59,9 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Книги БД](https://cloud.mail.ru/public/emd9/ZWBKMoTWF)
 
+# Book
+[AI](https://cloud.mail.ru/public/9abi/2cwzCxVuq)
+
 
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
