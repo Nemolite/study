@@ -66,5 +66,7 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
 
+[Расписание](https://app.doma.uchi.ru/u2035/31325/python/online)
+
 
 
