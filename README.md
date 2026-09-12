@@ -62,6 +62,8 @@ git clone https://github.com/Nemolite/myhtml.git .
 # Book
 [AI](https://cloud.mail.ru/public/9abi/2cwzCxVuq)
 
+[pygame](https://cloud.mail.ru/public/mv9r/EpoVsQXH5)
+
 
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
