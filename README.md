@@ -67,6 +67,7 @@ git clone https://github.com/Nemolite/myhtml.git .
 ## Django
 [Django](https://cloud.mail.ru/public/yZyL/RSsKrNXXK)
 
+[Инструкция ЦИФРИУМ](https://kb.cifrium.ru/KB/EVI_26)
 
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
