@@ -64,6 +64,9 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [pygame](https://cloud.mail.ru/public/mv9r/EpoVsQXH5)
 
+## Django
+[Django](https://cloud.mail.ru/public/yZyL/RSsKrNXXK)
+
 
 
 [Прямая ссылка](https://app.doma.uchi.ru/u2035/31325/python/online)
