@@ -74,5 +74,16 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Расписание](https://app.doma.uchi.ru/u2035/31325/python/online)
 
+DATABASES = {
+'default': {
+'ENGINE': 'django.db.backends.mysql',
+'NAME': 'djan',
+'USER': 'root',
+'PASSWORD': '1111',
+'HOST': 'localhost',
+'PORT': '3306',
+}
+}
+
 
 
