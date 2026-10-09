@@ -55,7 +55,7 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Демо](https://cloud.mail.ru/public/BXkt/6HbooVjbv)
 
-[meet](сельское хозяйство в чувашии видео 2026 год)
+[meet]((https://meet.google.com/etm-tckh-mer))
 
 [Книги БД](https://cloud.mail.ru/public/emd9/ZWBKMoTWF)
 
