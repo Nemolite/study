@@ -85,5 +85,7 @@ DATABASES = {
 }
 }
 
+[учи.ру](https://app.doma.uchi.ru/u2035/31325/python/online)
+
 
 
