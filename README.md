@@ -87,5 +87,15 @@ DATABASES = {
 
 [учи.ру](https://app.doma.uchi.ru/u2035/31325/python/online)
 
+[Антонов](https://app.doma.uchi.ru/r/Nkke7wHiBmKSuki4hfLqi8qP)
+[Паштынов](https://app.doma.uchi.ru/r/Vpui2sTs2GzSa3kFrthLZg1Q)
+[Михайлов](https://app.doma.uchi.ru/r/5FvhFECqTN1vBR9E4UJN1i2D)
+[Данилов](https://app.doma.uchi.ru/r/5fAVbetAX5RyPKdjEhET68JD)
+[Тихонов](https://app.doma.uchi.ru/r/3kBJQfGmFeUDLYaXHHVvwtBh)
+[Мартынов](https://app.doma.uchi.ru/r/U2m7D85dN47qYUSy5K1DWKiH)
+[Александрова](https://app.doma.uchi.ru/r/cgh9pr78pRUzuXtnv3u3DTGy)
+[Семаева](https://app.doma.uchi.ru/r/3XnYS3nHY629A29SVKzG5gXg)
+[Исправников](https://app.doma.uchi.ru/r/mCayNTHpUK1mba3G1f39XxN4)
+[Иванова](https://app.doma.uchi.ru/r/dNeK6JRDDUWX1CNjkpDbywy9)
 
 
