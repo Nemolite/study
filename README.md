@@ -104,4 +104,57 @@ DATABASES = {
 [Исправников](https://app.doma.uchi.ru/r/mCayNTHpUK1mba3G1f39XxN4)
 [Иванова](https://app.doma.uchi.ru/r/dNeK6JRDDUWX1CNjkpDbywy9)
 
+================
 
+from tkinter import *
+from tkinter import ttk
+import pymysql
+
+def cursor_db():
+
+    # Подключение к БД
+    connection = pymysql.connect(
+        host='localhost',  # хост (обычно localhost)
+        port=3306,  # порт (по умолчанию 3306)
+        user='root',  # имя пользователя
+        password='1111',  # пароль
+        database='basa2',  # имя базы данных
+        charset='utf8mb4'  # кодировка для русских букв
+    )
+
+    if connection:
+       return connection
+    else:
+        connection
+
+root = Tk()
+root.title("Работа с БД")
+root.geometry("500x500")
+label = ttk.Label(text="Передача данных в таблицу indef БД def", font=("Arial", 14))
+label.pack()
+
+
+def send_to_bd():
+    connection = cursor_db()
+    cursor = connection.cursor()
+    id = int(entry_id.get())
+    Name = entry_Name.get()
+    print(id,Name)
+    sql = f"INSERT INTO basa2.stud (Id, Name) VALUES ({id}, \"{Name}\")"
+    print(sql)
+    cursor.execute(sql)
+    connection.commit()
+
+# label for id
+entry_id = ttk.Entry()
+entry_id.pack(anchor=NW, padx=6, pady=6)
+
+# label for Name
+entry_Name = ttk.Entry()
+entry_Name.pack(anchor=NW, padx=6, pady=6)
+
+btn = ttk.Button(text="Click", command=send_to_bd)
+btn.pack(anchor=NW, padx=6, pady=6)
+# basa2 stud
+
+root.mainloop()
