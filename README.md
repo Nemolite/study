@@ -112,7 +112,7 @@ import pymysql
 
 def cursor_db():
 
-    # Подключение к БД
+  
     connection = pymysql.connect(
         host='localhost',  # хост (обычно localhost)
         port=3306,  # порт (по умолчанию 3306)
@@ -145,16 +145,16 @@ def send_to_bd():
     cursor.execute(sql)
     connection.commit()
 
-# label for id
+
 entry_id = ttk.Entry()
 entry_id.pack(anchor=NW, padx=6, pady=6)
 
-# label for Name
+
 entry_Name = ttk.Entry()
 entry_Name.pack(anchor=NW, padx=6, pady=6)
 
 btn = ttk.Button(text="Click", command=send_to_bd)
 btn.pack(anchor=NW, padx=6, pady=6)
-# basa2 stud
+
 
 root.mainloop()
