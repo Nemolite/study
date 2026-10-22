@@ -80,6 +80,10 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Расписание](https://app.doma.uchi.ru/u2035/31325/python/online)
 
+[ссылка на урок](https://app.doma.uchi.ru/r/Qq3YJLdH4BoDXB4MtCuRLrzC )
+
+============================
+
 DATABASES = {
 'default': {
 'ENGINE': 'django.db.backends.mysql',
