@@ -1,7 +1,7 @@
 # study
 study
 
-[Подключение](https://meet.google.com/bfz-whcf-pzu)
+[Подключение](https://meet.google.com/gku-bbcm-ror)
 
 SET HTTP_PROXY=http://10.0.21.52:3128
 
@@ -61,7 +61,6 @@ git clone https://github.com/Nemolite/myhtml.git .
 
 [Демо](https://cloud.mail.ru/public/BXkt/6HbooVjbv)
 
-[meet](https://meet.google.com/oot-jkrd-ryh)
 
 [Книги БД](https://cloud.mail.ru/public/emd9/ZWBKMoTWF)
 
